@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    color: blue;
+    margin-bottom: 15px;
+}
+
+.form-student {
+    width: 400px;
+    height: 350px;
+    border: 1px solid;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.form-student h3 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.form-student label {
+    width: 100px;
+    float: left;
+}
+
+.form-student input {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.btn {
+    margin-top: 15px;
+    padding: 5px;
+    width: 150px;
+}
+
+.list-student {
+    width: 850px;
+    height: 400px;
+    border: 1px solid;
+}
+
+.list-student h3 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.list-student input {
+    padding: 4px;
+    width: 250px;
+}
+
+.list-student table {
+    text-align: center;
+}
+
+.list-student button {
+    padding: 4px;
+    margin-left: 3px;
+}
